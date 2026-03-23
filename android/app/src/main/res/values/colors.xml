@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#7C3AED</color>
+    <color name="primary_dark">#5B21B6</color>
+    <color name="primary_light">#EDE9FE</color>
+    <color name="secondary">#3B82F6</color>
+
+    <!-- Dark Theme Backgrounds -->
+    <color name="background">#0F0F14</color>
+    <color name="surface">#1A1A24</color>
+    <color name="card_background">#22223A</color>
+    <color name="input_background">#2A2A3E</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F1F1F8</color>
+    <color name="text_secondary">#A0A0B8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="hint_color">#6B6B85</color>
+
+    <!-- Stress levels -->
+    <color name="stress_low">#22C55E</color>
+    <color name="stress_medium">#F59E0B</color>
+    <color name="stress_high">#EF4444</color>
+
+    <!-- System -->
+    <color name="black">#FF000000</color>
+    <color name="divider">#2E2E4A</color>
+
+    <!-- Bottom nav -->
+    <color name="bottom_nav_selected">#7C3AED</color>
+    <color name="bottom_nav_unselected">#6B6B85</color>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindScan</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">History</string>
+    <string name="nav_usage">Usage</string>
+    <string name="nav_settings">Settings</string>
+    <string name="btn_analyze">Analyze My Stress</string>
+    <string name="btn_auto_fill">Auto-fill from device</string>
+    <string name="label_sleep_duration">Sleep Duration (hours)</string>
+    <string name="label_sleep_quality">Sleep Quality (1–10)</string>
+    <string name="label_screen_time">Daily Screen Time (hours)</string>
+    <string name="label_phone_before_sleep">Phone Use Before Sleep (minutes)</string>
+    <string name="label_physical_activity">Physical Activity (min/day)</string>
+    <string name="label_daily_steps">Daily Steps</string>
+    <string name="label_mental_fatigue">Mental Fatigue (1–10)</string>
+    <string name="label_caffeine">Caffeine Intake (cups/day)</string>
+    <string name="label_notifications">Notifications Per Day</string>
+    <string name="label_age">Age</string>
+    <string name="stress_low">Low</string>
+    <string name="stress_medium">Medium</string>
+    <string name="stress_high">High</string>
+    <string name="error_fill_all_fields">Please fill in all fields</string>
+    <string name="error_connection">Connection error. Make sure the server is running.</string>
+</resources>

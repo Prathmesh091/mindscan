@@ -1,0 +1,83 @@
+{
+  "sleep": {
+    "title": "Improve Sleep Quality",
+    "messages": [
+      "You're getting less than 6 hours of sleep. Aim for 7–9 hours to reduce stress and improve cognitive function.",
+      "Maintain a consistent sleep schedule — even on weekends — to regulate your body clock.",
+      "Create a relaxing bedtime routine: dim lights 1 hour before bed and avoid stimulating content.",
+      "Keep your bedroom cool (65–68°F / 18–20°C) for optimal sleep quality."
+    ]
+  },
+  "digital_detox": {
+    "title": "Digital Detox",
+    "messages": [
+      "Your daily screen time is high. Try to limit recreational screen use to under 4 hours per day.",
+      "Use app timers or digital wellbeing tools to set daily limits on social media and entertainment apps.",
+      "Take a 5-minute screen break every hour to reduce eye strain and mental fatigue.",
+      "Designate 'screen-free' times — such as during meals and the first 30 minutes after waking."
+    ]
+  },
+  "social_media": {
+    "title": "Social Media Balance",
+    "messages": [
+      "Excessive social media use is linked to elevated stress and anxiety. Try limiting to 1–2 hours per day.",
+      "Unfollow or mute accounts that cause negative emotions or comparison.",
+      "Batch your social media checks: twice a day rather than constant checking.",
+      "Consider a 7-day social media detox to reset your baseline stress levels."
+    ]
+  },
+  "gaming": {
+    "title": "Gaming Balance",
+    "messages": [
+      "High gaming hours, especially late at night, can disrupt sleep and elevate cortisol.",
+      "Set a hard stop time for gaming — at least 1 hour before you plan to sleep.",
+      "Balance gaming with physical activity: for every hour of gaming, do 15 minutes of movement.",
+      "Avoid competitive games before bed as they stimulate adrenaline and make it harder to fall asleep."
+    ]
+  },
+  "movement": {
+    "title": "Increase Physical Activity",
+    "messages": [
+      "You're under the recommended 8,000 steps per day. Try a 20-minute walk during lunch.",
+      "Physical activity is one of the most effective natural stress reducers. Even light exercise helps.",
+      "Try the 'exercise snack' approach: three 10-minute walks spread across the day.",
+      "Strength training 2–3 times per week has been shown to significantly lower chronic stress markers."
+    ]
+  },
+  "mindfulness": {
+    "title": "Mindfulness & Relaxation",
+    "messages": [
+      "High mental fatigue detected. Try 5–10 minutes of deep breathing or meditation daily.",
+      "Box breathing (4 counts in, hold, out, hold) activates the parasympathetic nervous system.",
+      "Progressive muscle relaxation before bed can reduce tension and improve sleep onset.",
+      "Journaling for 5 minutes daily can help process stress and reduce rumination."
+    ]
+  },
+  "caffeine": {
+    "title": "Caffeine Management",
+    "messages": [
+      "High caffeine intake can elevate cortisol and anxiety. Try to stay under 400mg per day (~4 cups of coffee).",
+      "Avoid caffeine after 2 PM to prevent sleep disruption.",
+      "Replace afternoon coffee with herbal tea or water for better sleep quality.",
+      "Gradually taper caffeine intake to avoid withdrawal headaches if reducing consumption."
+    ]
+  },
+  "high_stress": {
+    "title": "High Stress Action Plan",
+    "messages": [
+      "Your stress score is high. Consider reaching out to a mental health professional or counselor.",
+      "Identify your top 3 stressors and make an action plan to address or reduce at least one.",
+      "Practice the 5-4-3-2-1 grounding technique when feeling overwhelmed.",
+      "Prioritize rest, nourishment, and connection with trusted friends or family this week."
+    ]
+  },
+  "positive": {
+    "title": "Keep It Up!",
+    "messages": [
+      "Your behavioral metrics look healthy. You're managing sleep, activity, and screen time well.",
+      "Great job maintaining physical activity! Keep up the consistent movement routine.",
+      "Your sleep duration and quality look solid — this is one of the best defenses against stress.",
+      "Continue your current habits and consider tracking your mood to identify subtle stress patterns."
+    ]
+  }
+}

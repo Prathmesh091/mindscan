@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.mindscan.ui.DashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.mindscan.ui.HistoryFragment"
+        android:label="History" />
+
+    <fragment
+        android:id="@+id/appUsageFragment"
+        android:name="com.mindscan.ui.AppUsageFragment"
+        android:label="Usage" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.mindscan.ui.SettingsFragment"
+        android:label="Settings" />
+
+</navigation>
